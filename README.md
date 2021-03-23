@@ -3,7 +3,7 @@
 This is a Fake Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 Hence the name Finstagram.
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Instagram - Part I
 
